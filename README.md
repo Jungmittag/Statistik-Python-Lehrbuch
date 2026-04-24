@@ -1,0 +1,1 @@
+In diesem Repository finden Sie den in dem Lehrbuch Jungmittag, A. (2026), Statistik für Data Science mit Python: Eine Einführung Code sowie genutzten Daten. Den Code finden Sie in acht Jupyter-Notebooks in dem Verzeichnis Code. Das Verzeichnis Data enthält die verwendeten Daten.
